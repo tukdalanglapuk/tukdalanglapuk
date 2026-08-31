@@ -40,9 +40,14 @@ I'm currently developing my skills through academic projects, personal projects,
 
 <div align="center">
 
-![Uda Asyraf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tukdalanglapuk\&show_icons=true\&theme=tokyonight\&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=tukdalanglapuk&show_icons=true&theme=tokyonight&hide_border=true" alt="Uda Asyraf GitHub Stats" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=tukdalanglapuk\&theme=tokyonight\&hide_border=true)
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=tukdalanglapuk&theme=tokyonight&hide_border=true" alt="Uda Asyraf GitHub Streak" />
+
+</div>
+
 
 </div>
 
