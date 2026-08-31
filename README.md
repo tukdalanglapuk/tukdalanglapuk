@@ -40,17 +40,13 @@ I'm currently developing my skills through academic projects, personal projects,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tukdalanglapuk&show_icons=true&theme=tokyonight&hide_border=true" alt="Uda Asyraf GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=tukdalanglapuk&show_icons=true&theme=tokyonight&hide_border=true" alt="Uda Asyraf GitHub Stats">
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=tukdalanglapuk&theme=tokyonight&hide_border=true" alt="Uda Asyraf GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=tukdalanglapuk&theme=tokyonight&hide_border=true" alt="Uda Asyraf GitHub Streak">
 
 </div>
-
-
-</div>
-
 ---
 
 ## 🌐 Connect With Me
